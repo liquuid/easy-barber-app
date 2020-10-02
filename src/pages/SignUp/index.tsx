@@ -73,7 +73,7 @@ const SignUp: React.FC = () => {
             console.log(err);
         }
 
-    },[]);
+    },[navigation]);
 
     return (
         <>
